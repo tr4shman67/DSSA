@@ -1,0 +1,39 @@
+{
+   "markers" : [
+      {
+         "pin" : "carriermagenta",
+         "text" : "Hawking's Gap",
+         "x" : -34054.093,
+         "y" : 177.156,
+         "z" : 44361.968
+      },
+      {
+         "pin" : "carriermagenta",
+         "text" : "Outer Arm",
+         "x" : -24864.531,
+         "y" : 301.156,
+         "z" : 33345
+      },
+	  {
+         "pin" : "carriermagenta",
+         "text" : "Outer Scutum Centaurus",
+         "x" : -34054.093,
+         "y" : 177.156,
+         "z" : 44361.968
+      },
+	  {
+         "pin" : "carriermagenta",
+         "text" : "Perseus Arm",
+         "x" : -21777.531,
+         "y" : 103.843,
+         "z" : 18200.906
+      },
+	  {
+         "pin" : "carriermagenta",
+         "text" : "Sanguineous Rim",
+         "x" : 8183.312,
+         "y" : 144.5,
+         "z" : -5607.437
+      }
+   ]
+}
